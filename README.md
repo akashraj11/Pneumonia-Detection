@@ -1,4 +1,4 @@
-# python-project: Pneumonia detection using deep learning
+# python-project: Open-source Pneumonia detection system using deep learning
 Open-source Pneumonia Detection system using Deep Learning.
 
 Downloaded the dataset from Kaggle: https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data.
